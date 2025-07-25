@@ -1,11 +1,6 @@
 #  Sorbetes: Sa Likod ng Ngiti
 
-> _"To the ones who lived ordinary lives in extraordinary pain —  
-We saw you. Even if we looked away."_
-
-**Sorbetes: Sa Likod ng Ngiti** is a short, narrative-driven psychological horror game set in the heart of the Philippines. You play as a street-side ice cream vendor — a seemingly ordinary figure — whose past unravels slowly as the day progresses. But something’s wrong. The bells ring even when you don’t move. Children laugh, even when the streets are empty.
-
----
+**Sorbetes: Sa Likod ng Ngiti** is a short, narrative-driven psychological horror game set in the heart of the Philippines. You play as a street-side ice cream vendor — a seemingly ordinary figure — whose past unravels slowly as the day progresses.
 
 ##  Game Overview
 
@@ -15,12 +10,10 @@ We saw you. Even if we looked away."_
 | **Perspective** | First-person |
 | **Engine** | [To be determined: Godot/Unity/Unreal] |
 | **Platform** | PC (Itch.io initial release) |
-| **Playtime** | 30–60 minutes |
+| **Playtime** | 50–75 minutes |
 | **Language** | Primarily Filipino (Tagalog) with optional English subtitles |
 | **Voice Acting** | Yes |
-| **Target Audience** | Fans of slow-burn horror, Southeast Asian folklore, Filipino culture, Cry of Fear-style narrative horror |
-
----
+| **Target Audience** | Fans of slow-burn horror, Southeast Asian folklore, Filipino culture|
 
 ##  Key Features
 
