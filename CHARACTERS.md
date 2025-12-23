@@ -5,7 +5,7 @@ This file lists the major and minor characters featured in the game. Each one se
 ---
 
 ## Genre: 1st Person Reverse Horror / Noir
-Setting: Manila, 1989 — Gritty, noir-inspired black-and-white visuals.
+Setting: Manila, 1989 Gritty, noir-inspired black-and-white visuals.
 Core Gameplay
 Perspective: First-person.
 Movement: WASD or arrow keys.
