@@ -1,18 +1,39 @@
-# Characters – *Sorbetes: Sa Likod ng Ngiti*
+# Characters *Sorbetes: Sa Likod ng Ngiti*
 
 This file lists the major and minor characters featured in the game. Each one serves a narrative or atmospheric purpose, helping build the world, hint at the protagonist’s backstory, or contribute to the slow-burn psychological horror.
 
 ---
 
-##  Main Character
+## Genre: 1st Person Reverse Horror / Noir
+Setting: Manila, 1989 — Gritty, noir-inspired black-and-white visuals.
+Core Gameplay
+Perspective: First-person.
+Movement: WASD or arrow keys.
+Inventory: Strictly 5 slots.
+Day/Night Cycles
+Day: 10 minutes
+Night: 15 minutes
+Killing Phase:
+Early Game: Night only
+Mid/Late Game: Both day and night (Daytime AI awareness increased by 50%)
+Endings: 3 possible outcomes: Neutral, Pacifist, Genocide
 
-### **The Sorbetero (Player)**
-- **Age**: 60s
-- **Role**: Ice cream vendor, player character
-- **Backstory**: A former revolutionary or soldier during the {REDACTED} dictatorship. Now lives a quiet, anonymous life, pushing his cart through familiar streets haunted by the past.
-- **Personality**: Quiet, kind to children, wary of adults. Suffers from vivid flashbacks, suppressed guilt, and the blurring of past and present.
-
----
+## Main Character
+Name: Miguel L. Cruz
+Age: 66
+Height/Build: 5’8", burly but lean (conditioned by a harsh childhood)
+## Background:
+Former private investigator (29–66 years old)
+6,159 cases solved, 6,162 clients served
+Retired to run a sorbetero cart, honoring a childhood love of ice cream and family heritage
+PI career acted as a cover for his true urges: hunting people down
+Personality/Notoriety:
+Widely known in Manila for both good and bad deeds
+Experienced, calculating, and morally complex
+Personal Space / Room:
+Walls covered with memorabilia from his PI career
+Newspaper clippings showcasing investigations — both heroic and sinister
+Collection of orbital floor fractures with names (indicative of his darker deeds)
 
 ## Children 
 
@@ -33,6 +54,23 @@ This file lists the major and minor characters featured in the game. Each one se
 - **Traits**: Quiet, calm, mature for his age  
 
 ##  Adults
+Carlo (28) – a tricycle driver, friendly but sometimes nosy about other people’s business.
+Jerome (19) – tmbay (loiterer) who hangs out with friends late at night near sari-sari stores.
+Jay-ar (35) – (KILLED) (2nd worse death) barangay tanod (watchman), responsible but always tired.
+
+## Kerwin (12) – (KILLED) (WORSE DEATH) (death via eyes scooped and pouring boiling hot water in the sockets while victim is alive) playful kid who follows the ice cream cart everywhere.
+
+## Gilbert (42) – school teacher, strict, rarely smiles, respected but distant.
+
+## Franci (23) – out-of-school youth, a bit of a joker, hides his worries with humor.
+
+## Nesto (60) – retired man, spends afternoons outside his house observing the street.
+
+## Arvin (16) – shy student, avoids attention, often sketching in his notebook.
+
+## Ramon (50) – jeepney driver, loud, animated, always talking to someone.
+
+## Ruiz (30) –  (KILLED) construction worker, built tough, but has a soft spot for kids.
 
 ### **Esposo (The Drunk)**  
 - **Age**: Late 40s  
@@ -49,11 +87,6 @@ This file lists the major and minor characters featured in the game. Each one se
 - **Traits**: Gossiping vendor  
 - **Notes**: Starts whisper campaigns about the sorbetero’s dark past.
 
-### **Kuya Rodel**  
-- **Age**: 30s  
-- **Traits**: Tricycle driver, cheerful  
-- **Notes**: Keeps hearing screams from an empty street — jokes about it.
-
 ### **Sister Mercy**  
 - **Age**: 50s  
 - **Traits**: Religious, kind  
@@ -69,7 +102,6 @@ This file lists the major and minor characters featured in the game. Each one se
 ##  Others (Unseen or Supernatural)
 
 - **The Shadow** – A figure seen only by the player in reflections and glass.
-- **The Child with No Face** – Appears briefly, never speaks, always stares.
 - **The Marching Band** – Heard from a distance; triggers old flashbacks.
 
 ---
