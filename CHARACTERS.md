@@ -54,23 +54,6 @@ Collection of orbital floor fractures with names (indicative of his darker deeds
 - **Traits**: Quiet, calm, mature for his age  
 
 ##  Adults
-Carlo (28) – a tricycle driver, friendly but sometimes nosy about other people’s business.
-Jerome (19) – tmbay (loiterer) who hangs out with friends late at night near sari-sari stores.
-Jay-ar (35) – (KILLED) (2nd worse death) barangay tanod (watchman), responsible but always tired.
-
-## Kerwin (12) – (KILLED) (WORSE DEATH) (death via eyes scooped and pouring boiling hot water in the sockets while victim is alive) playful kid who follows the ice cream cart everywhere.
-
-## Gilbert (42) – school teacher, strict, rarely smiles, respected but distant.
-
-## Franci (23) – out-of-school youth, a bit of a joker, hides his worries with humor.
-
-## Nesto (60) – retired man, spends afternoons outside his house observing the street.
-
-## Arvin (16) – shy student, avoids attention, often sketching in his notebook.
-
-## Ramon (50) – jeepney driver, loud, animated, always talking to someone.
-
-## Ruiz (30) –  (KILLED) construction worker, built tough, but has a soft spot for kids.
 
 ### **Esposo (The Drunk)**  
 - **Age**: Late 40s  
